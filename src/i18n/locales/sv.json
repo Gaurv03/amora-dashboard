@@ -1,0 +1,57 @@
+{
+    "common": {
+        "welcome": "Välkommen",
+        "loading": "Laddar...",
+        "error": "Fel",
+        "success": "Framgång",
+        "cancel": "Avbryt",
+        "save": "Spara",
+        "delete": "Radera",
+        "edit": "Redigera",
+        "add": "Lägg till",
+        "search": "Sök",
+        "filter": "Filtrera",
+        "sort": "Sortera",
+        "refresh": "Uppdatera",
+        "close": "Stäng",
+        "back": "Tillbaka",
+        "next": "Nästa",
+        "previous": "Föregående",
+        "submit": "Skicka",
+        "reset": "Återställ"
+    },
+    "navigation": {
+        "home": "Hem",
+        "dashboard": "Instrumentpanel",
+        "settings": "Inställningar",
+        "profile": "Profil",
+        "logout": "Logga ut",
+        "login": "Logga in",
+        "register": "Registrera"
+    },
+    "app": {
+        "title": "Core Admin v3",
+        "description": "Modern admin-instrumentpanel byggd med React och Vite",
+        "count": "räknare är {{count}}",
+        "editFile": "Redigera <code>{{file}}</code> och spara för att testa HMR",
+        "learnMore": "Klicka på Vite- och React-logotyperna för att lära dig mer"
+    },
+    "theme": {
+        "light": "Ljus",
+        "dark": "Mörk",
+        "system": "System",
+        "toggleTheme": "Växla tema"
+    },
+    "language": {
+        "en": "English",
+        "sv": "Svenska",
+        "pl": "Polski",
+        "selectLanguage": "Välj språk"
+    },
+    "routes": {
+        "dashboard": "Instrumentpanel",
+        "login": "Logga in",
+        "unauthorized": "Obehörig",
+        "documents": "Dokument"
+    }
+}

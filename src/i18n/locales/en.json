@@ -1,0 +1,82 @@
+{
+    "common": {
+        "welcome": "Welcome",
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "cancel": "Cancel",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "add": "Add",
+        "search": "Search",
+        "filter": "Filter",
+        "sort": "Sort",
+        "refresh": "Refresh",
+        "close": "Close",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "submit": "Submit",
+        "reset": "Reset"
+    },
+    "navigation": {
+        "home": "Home",
+        "dashboard": "Dashboard",
+        "settings": "Settings",
+        "profile": "Profile",
+        "logout": "Logout",
+        "login": "Login",
+        "register": "Register"
+    },
+    "app": {
+        "title": "Core Admin v3",
+        "description": "Modern admin dashboard built with React and Vite",
+        "count": "count is {{count}}",
+        "editFile": "Edit <code>{{file}}</code> and save to test HMR",
+        "learnMore": "Click on the Vite and React logos to learn more"
+    },
+    "theme": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System",
+        "toggleTheme": "Toggle theme"
+    },
+    "language": {
+        "en": "English",
+        "sv": "Svenska",
+        "pl": "Polski",
+        "selectLanguage": "Select Language"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "logout": "Logout",
+        "userInfo": "User Information",
+        "name": "Name",
+        "email": "Email",
+        "role": "Role",
+        "roleInfo": "Role Information",
+        "adminDescription": "You have full administrative access to all features.",
+        "managerDescription": "You have management access to most features.",
+        "userDescription": "You have standard user access to basic features.",
+        "quickActions": "Quick Actions",
+        "viewProfile": "View Profile",
+        "settings": "Settings",
+        "help": "Help & Support",
+        "welcome": "Welcome!",
+        "welcomeMessage": "Welcome to the admin dashboard. You are successfully logged in and can now access all available features."
+    },
+    "unauthorized": {
+        "title": "Access Denied",
+        "description": "You do not have permission to access this page.",
+        "message": "Please contact your administrator if you believe this is an error.",
+        "goBack": "Go Back",
+        "goHome": "Go Home"
+    },
+    "routes": {
+        "dashboard": "Dashboard",
+        "login": "Login",
+        "unauthorized": "Unauthorized",
+        "documents": "Documents"
+    }
+}

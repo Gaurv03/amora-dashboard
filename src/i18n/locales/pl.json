@@ -1,0 +1,57 @@
+{
+    "common": {
+        "welcome": "Witamy",
+        "loading": "Ładowanie...",
+        "error": "Błąd",
+        "success": "Sukces",
+        "cancel": "Anuluj",
+        "save": "Zapisz",
+        "delete": "Usuń",
+        "edit": "Edytuj",
+        "add": "Dodaj",
+        "search": "Szukaj",
+        "filter": "Filtruj",
+        "sort": "Sortuj",
+        "refresh": "Odśwież",
+        "close": "Zamknij",
+        "back": "Wstecz",
+        "next": "Dalej",
+        "previous": "Poprzedni",
+        "submit": "Wyślij",
+        "reset": "Resetuj"
+    },
+    "navigation": {
+        "home": "Strona główna",
+        "dashboard": "Panel",
+        "settings": "Ustawienia",
+        "profile": "Profil",
+        "logout": "Wyloguj",
+        "login": "Zaloguj",
+        "register": "Zarejestruj"
+    },
+    "app": {
+        "title": "Core Admin v3",
+        "description": "Nowoczesny panel administracyjny zbudowany z React i Vite",
+        "count": "licznik to {{count}}",
+        "editFile": "Edytuj <code>{{file}}</code> i zapisz, aby przetestować HMR",
+        "learnMore": "Kliknij na loga Vite i React, aby dowiedzieć się więcej"
+    },
+    "theme": {
+        "light": "Jasny",
+        "dark": "Ciemny",
+        "system": "System",
+        "toggleTheme": "Przełącz motyw"
+    },
+    "language": {
+        "en": "English",
+        "sv": "Svenska",
+        "pl": "Polski",
+        "selectLanguage": "Wybierz język"
+    },
+    "routes": {
+        "dashboard": "Panel",
+        "login": "Zaloguj",
+        "unauthorized": "Nieautoryzowany",
+        "documents": "Dokumenty"
+    }
+}
