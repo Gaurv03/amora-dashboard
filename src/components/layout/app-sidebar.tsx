@@ -58,7 +58,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
             >
               <div >
                 <Gem size={18} />
-                <span className="text-lg">Amora</span>
+                <span className="text-lg">AmoraS</span>
               </div>
             </SidebarMenuButton>
           </SidebarMenuItem>
